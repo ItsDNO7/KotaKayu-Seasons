@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Early Autumn: KotaKayu Seasons",
+        "name": "KotaKayu - Early Autumn",
+        "uuid": "26ddf422-0832-47e9-961c-bfe038ed48a6",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+        {
+            "description": "Early Autumn: KotaKayu Seasons",
+            "type": "resources",
+            "uuid": "3e55e0b3-a75c-4179-b561-d324a4669bbc",
+            "version": [1, 0, 0]
+        }
+    ]
+}
